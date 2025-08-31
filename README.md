@@ -1,71 +1,52 @@
-# 👋 Hey there, I'm Raman kumar  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Raman%20Kumar&animation=wave&color=gradient&height=120" alt="Banner"/>
+</p>
 
-👨‍💻 B.Tech CSE 3rd Yr Cloud @ UPES | Web Developer | AWS Explorer | Python & C++ Enthusiast 🚀  
-
----
-
-
----
-
-### 🌟 About Me  
-- 🔭 Exploring **Web Development** (Frontend + Backend with React)  
-- ☁️ Passionate about **Cloud Computing & AWS**  
-- 🐍 Love solving problems in **Python** and **C++**  
-- 🚀 Always eager to build and learn new things  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F374B1&center=true&lines=Cloud+Computing+Student+%7C+Problem+Solver+%7C+LMS+Builder+%7C+DSA+&center=true" alt="Typing SVG"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages:** Python, C++  
-- **Web Dev:** HTML, CSS, JavaScript, **React**  
-- **Cloud:** AWS  
-- **Tools:** Git, GitHub, VS Code  
+###  Hi, I'm **Raman Kumar**  
+- Pursuing **Cloud Computing** @ **UPES Dehradun**  
+- Built **Advanced LMS** & **Business Management System**  
+- Languages: HTML, CSS, Java, Linux, C, C++, Python — solid command on **OOP** concepts  
+- LeetCode: **350+ rating** in Problem Solving & DSA  
+- Hands-on **Industrial Exposure**
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
-
----
-
-### 📫 Connect With Me  
-- 📧 Email: **ramankumar8477@gmail.com**  
-- 💼 LinkedIn: [Raman Kumar](https://www.linkedin.com/in/raman-kumar-82142b303/)  
-
----
-
-✨ *“Building code, breaking limits — future engineer in the making.”*  
-
-- 🔭 Exploring **Web Development** (Frontend + Backend)  
-- ☁️ Passionate about **Cloud Computing & AWS**  
-- 🐍 Love solving problems in **Python** and **C++**  
-- 🚀 Always eager to build and learn new things  
+###  Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="40"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages:** Python, C++  
-- **Web Dev:** HTML, CSS, JavaScript  
-- **Cloud:** AWS  
-- **Tools:** Git, GitHub, VS Code  
+###  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
-
----
-
-### 📫 Connect With Me  
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
-- 🌐 Portfolio: [yourportfolio.com]  
+###  Connect With Me
+<p align="center">
+  <a href="mailto:ramankumar8477@gmail.com"><img src="https://img.shields.io/badge/Email-ramankumar8477%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raman-kumar-82142b303/"><img src="https://img.shields.io/badge/LinkedIn-Raman%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-✨ *“Building code, breaking limits — future engineer in the making.”*  
+✨ *“Crafting code, conquering clouds, and building future-ready systems.”*
 
