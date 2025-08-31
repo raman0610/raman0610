@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey there, I'm [Your Name]  
 
-<!--
-**raman0610/raman0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 B.Tech CSE 3rd Yr Cloud @ UPES | Web Developer | AWS Explorer | Python & C++ Enthusiast 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me  
+- 🔭 Exploring **Web Development** (Frontend + Backend)  
+- ☁️ Passionate about **Cloud Computing & AWS**  
+- 🐍 Love solving problems in **Python** and **C++**  
+- 🚀 Always eager to build and learn new things  
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** Python, C++  
+- **Web Dev:** HTML, CSS, JavaScript  
+- **Cloud:** AWS  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+### 📫 Connect With Me  
+- 📧 Email: [your.email@example.com]  
+- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 🌐 Portfolio: [yourportfolio.com]  
+
+---
+
+✨ *“Building code, breaking limits — future engineer in the making.”*  
+
